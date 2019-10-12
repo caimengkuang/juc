@@ -3,7 +3,7 @@ package cn.yase.juc.algorithm;
 import java.util.concurrent.Semaphore;
 
 /**
- * 解法4 : 使用信号量 Semaphore
+ * 解法4 : 使用信号量 SemaphoreDemo
  * 
  * @author yase
  * @since 2019/10/12 上午11:55

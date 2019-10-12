@@ -13,7 +13,7 @@ import java.util.concurrent.CountDownLatch;
  *      解法1 : 使用 CountDownLatch
  *      解法2 : 使用 volatile + 自旋
  *      解法3 : 使用 ReentrantLock + Condition
- *      解法4 : 使用信号量 Semaphore
+ *      解法4 : 使用信号量 SemaphoreDemo
  *
  * @author yase
  * @since 2019/10/12 上午10:43
